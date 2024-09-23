@@ -3,13 +3,13 @@ import MainLayout from "../layout/MainLayout";
 import Home from "../pages/home/Home";
 import Login from "../pages/login/Login";
 import Registration from "../pages/registration/Registration";
-import Casino from "../pages/home/casino/Casino";
-import Slot from "../pages/home/slot/Slot";
-import TableGames from "@/pages/home/tableGames/TableGames";
-import SportsBook from "@/pages/home/sportsBook/SportsBook";
-import Fishing from "@/pages/home/fishing/Fishing";
-import Crash from "@/pages/home/crash/Crash";
-import Promotion from "@/pages/home/promotion/Promotion";
+import Casino from "../pages/casino/Casino";
+import Slot from "../pages/slot/Slot";
+import TableGames from "@/pages/tableGames/TableGames";
+import SportsBook from "@/pages/sportsBook/SportsBook";
+import Fishing from "@/pages/fishing/Fishing";
+import Crash from "@/pages/crash/Crash";
+import Promotion from "@/pages/promotion/Promotion";
 
 const router = createBrowserRouter([
   {
